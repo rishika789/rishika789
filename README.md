@@ -34,7 +34,7 @@
  
  <h3 align="center">GITHUB STAT'S ...</h3><br>
  <p align="center">
-<a href="https://github.com/rishikak789">
+<a href="https://github.com/rishika789">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rishika789&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rishika789&layout=compact&langs_count=8&theme=dracula"/>
 </a>
